@@ -1,0 +1,19 @@
+h1{ 
+  color:#e18335ff}
+h3 {
+  color:#0072bbff;
+  font-family: 'Lucida Sans';
+  h2 {color:#8fc93aff;}
+
+  table, th, td {border: 1px solid;}
+
+
+}
+<table>
+<tr>
+<th>Canned</th>
+<th>Dry Goods</th>
+</tr>
+<td>Corn</td>
+<td>Crackers</td>
+</table>
